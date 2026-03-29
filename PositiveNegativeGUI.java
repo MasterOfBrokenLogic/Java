@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author teams
- */
-import javax.swing.*;
+=import javax.swing.*;
 import java.awt.event.*;
 
 public class PositiveNegativeGUI {
