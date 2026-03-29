@@ -1,0 +1,29 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author teams
+ */
+package Module4;
+
+import java.util.Scanner;
+
+public class FactorialPackage {
+    public static void main(String[] args) {
+        int n, fact = 1;
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+        n = sc.nextInt();
+
+        for(int i = 1; i <= n; i++) {
+            fact = fact * i;
+        }
+
+        System.out.println("Factorial = " + fact);
+    }
+}
