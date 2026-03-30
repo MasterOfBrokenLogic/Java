@@ -1,0 +1,164 @@
+==============================
+        MODULE 4
+==============================
+
+[1] Factorial
+→ Write a Java program to read an integer from the user and print its factorial.
+
+[2] FibonacciSeriesN
+→ Write a Java program to read a number n and display the Fibonacci series up to n terms.
+
+[3] SumOfDigits
+→ Write a Java program to find the sum of digits of a given number.
+
+[4] EvenOddDigitCount
+→ Write a Java program to count the number of even and odd digits in a given number.
+
+[5] TwoNumbersOperationsCLA
+→ Write a Java program to read two numbers as command line arguments and print their sum, difference, product, and quotient.
+
+[6] EvenOddCLA
+→ Write a Java program to read a number from the command line argument and check whether it is even or odd.
+
+[7] FactorialCLA
+→ Write a Java program to read a number from the command line argument and find its factorial.
+
+[8] BubbleSortArray
+→ Write a Java program to sort an integer array in ascending order using bubble sort.
+
+[9] LinearSearchArray
+→ Write a Java program to perform linear search in an array.
+
+[10] MatrixMultiplication
+→ Write a Java program to perform multiplication of two matrices.
+
+[11] MatrixLargestSmallest
+→ Write a Java program to find the largest and smallest elements in a matrix.
+
+[12] StringPalindrome
+→ Write a Java program to check whether a given string is a palindrome or not.
+
+[13] StringMethods
+→ Write a Java program to demonstrate various string methods such as length(), toUpperCase(), toLowerCase(), charAt(), and substring().
+
+[14] StringArrayBubbleSort
+→ Write a Java program to sort an array of strings in alphabetical order using bubble sort.
+
+[15] HierarchicalInheritance
+→ Write a Java program to illustrate hierarchical inheritance using a parent class and multiple child classes.
+
+[16] MethodOverriding
+→ Write a Java program to illustrate method overriding.
+
+[17] DynamicMethodDispatch
+→ Write a Java program to illustrate dynamic method dispatch using parent class reference and child class object.
+
+[18] AbstractClass
+→ Write a Java program to illustrate the use of an abstract class and abstract method.
+
+[19] MultiThreadEvenOdd
+→ Write a Java application program to perform simple tasks using multithreading such as displaying even numbers and odd numbers with suitable delays.
+
+[20] CubePackage
+→ Write a Java program to find the cube of a number using packages.
+
+[21] FactorialPackage
+→ Write a Java program to find the factorial of a number using packages.
+
+[22] NegativeExceptionDemo
+→ Write a Java program to read n numbers and raise an exception called NegativeException when a negative number is entered.
+
+[23] AgeNotWithinRange
+→ Create a class Student with attributes roll number, name, age, and course. Generate an exception called AgeNotWithinRangeException if age is not between 15 and 21.
+
+[24] MultipleInheritance
+→ Write a Java program to implement multiple inheritance using interfaces.
+
+[25] RectangleConstructor
+→ Create a class Rectangle with overloaded constructors and methods to calculate the area of the rectangle.
+
+
+==============================
+        MODULE 5
+==============================
+
+[1] SimpleJFrame
+→ Create a simple JFrame to display the message "Welcome to Java Swing" using a JLabel.
+
+[2] ButtonDialog
+→ Create a JFrame with a button. When the button is clicked, open a JDialog box displaying a message.
+
+[3] LoginForm
+→ Create a login window using JFrame with username and password fields.
+
+[4] StudentNameDisplay
+→ Create a form using JLabel, JTextField, and JButton to accept a student name and display it on button click.
+
+[5] FeedbackCharCount
+→ Develop a program using JTextArea to enter feedback and display the character count.
+
+[6] CheckBoxHobbies
+→ Create a program using JCheckBox to select hobbies and display the selected hobbies.
+
+[7] RadioButtonGender
+→ Create a program using JRadioButton to select gender.
+
+[8] ListLanguages
+→ Create a program using JList to display a list of programming languages.
+
+[9] ComboBoxCountry
+→ Create a program using JComboBox to select a country from a list.
+
+[10] TableMarks
+→ Create a program using JTable to display student mark details.
+
+[11] ReverseNumberGUI
+→ Write a Swing program to accept an integer in a textbox, reverse the number, and display the result in another textbox.
+
+[12] CircleAreaGUI
+→ Write a Swing program to accept a value in a textbox, calculate the area of a circle, and display the result.
+
+[13] FlowLayoutExample
+→ Design a form using FlowLayout to arrange components.
+
+[14] BorderLayoutExample
+→ Create a window using BorderLayout and place components in all five regions.
+
+[15] GridLayoutCalculator
+→ Design a calculator using GridLayout.
+
+[16] CardLayoutExample
+→ Design multiple screens using CardLayout (for example, login screen and home screen).
+
+[17] NullLayoutExample
+→ Create a program using Null Layout and manually set component positions.
+
+[18] SphereVolumeGUI
+→ Write a Swing program to calculate the volume of a sphere.
+
+[19] SumOfDigitsGUI
+→ Write a Swing program to find the sum of digits of a number.
+
+[20] PositiveNegativeGUI
+→ Write a Swing program to check whether a number is positive or negative.
+
+[21] FactorialGUI
+→ Write a Swing program to find the factorial of a number.
+
+[22] LargestNumberGUI
+→ Write a Swing program to find the largest of two numbers.
+
+[23] GridBagForm
+→ Create a form using GridBagLayout for student registration.
+
+[24] GridBagStudentForm
+→ Create another form using GridBagLayout for student details.
+
+[25] InsertDB
+→ Write a Java program using JDBC to insert a record into a database.
+
+[26] UpdateDB
+→ Write a Java program using JDBC to update a record in a database.
+
+[27] DeleteDB
+→ Write a Java program using JDBC to delete a record from a database.
